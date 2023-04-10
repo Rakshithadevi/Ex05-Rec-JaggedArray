@@ -2,7 +2,7 @@
 ## Aim:
 To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
 ## Algorithm:
-```
+
 ## Step1:
 Start
 
@@ -18,7 +18,7 @@ Print the sample CPU usage in the jagged array.
 
 ## Step5:
 stop
-```
+
 
 
 ## Program:
@@ -73,7 +73,7 @@ namespace cpu_usage
         }
     }
 }
-
+```
 
 
 
